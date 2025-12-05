@@ -1,4 +1,4 @@
-# Spotify Playlist Generator (Simple Version)
+# Spotify Playlist Generator
 
 A simple web application that uses the Spotify Web API to generate playlists based on emotions using 3 specific artists.
 
@@ -123,4 +123,5 @@ spotify-playlist-generator/
 ## License
 
 MIT
+
 
