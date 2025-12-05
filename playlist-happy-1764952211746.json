@@ -1,0 +1,311 @@
+{
+  "emotion": "happy",
+  "artist": "Elton John",
+  "tracks": [
+    {
+      "id": "7rglLriMNBPAyuJOMGwi39",
+      "name": "Cold Heart - PNAU Remix",
+      "artists": [
+        "Elton John",
+        "Dua Lipa",
+        "PNAU"
+      ],
+      "album": "The Lockdown Sessions",
+      "duration_ms": 202735,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273523458c391fe8180a19a1069",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02523458c391fe8180a19a1069",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851523458c391fe8180a19a1069",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "1jDJFeK9x3OZboIAHsY9k2",
+      "name": "I'm Still Standing",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Too Low For Zero",
+      "duration_ms": 183440,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "3bH2Eu9A9ymI4UnGHRmoXg",
+      "name": "Merry Christmas",
+      "artists": [
+        "Ed Sheeran",
+        "Elton John"
+      ],
+      "album": "Merry Christmas",
+      "duration_ms": 208546,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b629026e4cf6254a90dfc414",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b629026e4cf6254a90dfc414",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b629026e4cf6254a90dfc414",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "3gdewACMIVMEWVbyb8O9sY",
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Honky Chateau",
+      "duration_ms": 281613,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048513009007708ab5134936a58b3",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "11P4sSu6BH2lAbWk1sL6cK",
+      "name": "Step Into Christmas - Remastered 1995",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Caribou (Remastered 1995)",
+      "duration_ms": 272333,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27368f5959744717483eed212b2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0268f5959744717483eed212b2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485168f5959744717483eed212b2",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "38zsOOcu31XbbYj9BIPUF1",
+      "name": "Your Song",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Elton John",
+      "duration_ms": 241786,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e024b292ed7c7360a04d3d6b74a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048514b292ed7c7360a04d3d6b74a",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "7HW5WIw7ZgZORCzUxv5gW5",
+      "name": "Don't Go Breaking My Heart",
+      "artists": [
+        "Elton John",
+        "Kiki Dee"
+      ],
+      "album": "Rock Of The Westies",
+      "duration_ms": 275440,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0242a15a4fe15a8a88ab728d5b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485142a15a4fe15a8a88ab728d5b",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "2TVxnKdb3tqe1nhQWwwZCO",
+      "name": "Tiny Dancer",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Madman Across The Water",
+      "duration_ms": 377093,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d03ab2da904d8251a87bbc31",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "0e3yhVeNaTfKIWQRw9U9sY",
+      "name": "Sacrifice",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Sleeping With The Past (Remastered with bonus tracks)",
+      "duration_ms": 304133,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735a0fca95bfacb33ca3580a29",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025a0fca95bfacb33ca3580a29",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515a0fca95bfacb33ca3580a29",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    },
+    {
+      "id": "4IRHwIZHzlHT1FQpRa5RdE",
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Goodbye Yellow Brick Road (Remastered)",
+      "duration_ms": 192826,
+      "preview_url": null,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+      },
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b",
+          "height": 64,
+          "width": 64
+        }
+      ]
+    }
+  ],
+  "totalTracks": 10
+}
