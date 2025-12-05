@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Playlist Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Spotify Playlist Generator</h1>
+            <p class="subtitle">Create playlists based on your emotion</p>
+        </header>
+
+        <div class="main-content">
+            <!-- Emotion Selection Section -->
+            <section class="card emotion-section">
+                <h2>Choose Your Emotion</h2>
+                <div class="emotion-buttons" id="emotionButtons">
+                    <button class="emotion-btn" data-emotion="happy">
+                        <span class="emotion-name">Happy</span>
+                        <span class="artist-name">Elton John</span>
+                    </button>
+                    <button class="emotion-btn" data-emotion="energized">
+                        <span class="emotion-name">Energized</span>
+                        <span class="artist-name">Crush 40</span>
+                    </button>
+                    <button class="emotion-btn" data-emotion="chill">
+                        <span class="emotion-name">Chill</span>
+                        <span class="artist-name">TheFatRat</span>
+                    </button>
+                </div>
+                <div class="playlist-length-control">
+                    <label for="playlistLength">Playlist Length:</label>
+                    <input type="number" id="playlistLength" min="1" max="50" value="20">
+                    <button id="generateBtn" class="btn btn-primary">Generate Playlist</button>
+                </div>
+            </section>
+
+            <!-- Playlist Results Section -->
+            <section class="card playlist-results" id="playlistResults" style="display: none;">
+                <h2>Generated Playlist</h2>
+                <div class="playlist-header">
+                    <div id="playlistInfo" class="playlist-info"></div>
+                    <button id="exportBtn" class="btn btn-secondary">Export as JSON</button>
+                </div>
+                <div id="playlistTracks" class="tracks-list"></div>
+            </section>
+
+            <!-- User Preferences Section (Optional) -->
+            <section class="card preferences-section">
+                <h2>Your Profile (Optional)</h2>
+                <div class="user-setup">
+                    <div class="input-group">
+                        <label for="userId">Profile Name:</label>
+                        <input type="text" id="userId" placeholder="Enter any name (e.g., jake)">
+                        <button id="loadUserBtn" class="btn btn-secondary">Load/Create Profile</button>
+                        <small style="display: block; margin-top: 5px; color: #666; font-style: italic;">
+                            This saves your playlist length preference
+                        </small>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <div id="loadingOverlay" class="loading-overlay" style="display: none;">
+        <div class="spinner"></div>
+        <p>Generating playlist...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
